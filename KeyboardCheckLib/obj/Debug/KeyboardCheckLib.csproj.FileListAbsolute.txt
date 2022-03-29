@@ -1,0 +1,8 @@
+C:\Users\UnderKo\source\repos\KeyboardCheck\KeyboardCheckLib\bin\Debug\KeyboardCheckLib.dll
+C:\Users\UnderKo\source\repos\KeyboardCheck\KeyboardCheckLib\bin\Debug\KeyboardCheckLib.pdb
+C:\Users\UnderKo\source\repos\KeyboardCheck\KeyboardCheckLib\obj\Debug\KeyboardCheckLib.csproj.AssemblyReference.cache
+C:\Users\UnderKo\source\repos\KeyboardCheck\KeyboardCheckLib\obj\Debug\KeyboardCheckLib.csproj.CoreCompileInputs.cache
+C:\Users\UnderKo\source\repos\KeyboardCheck\KeyboardCheckLib\obj\Debug\KeyboardCheckLib.dll
+C:\Users\UnderKo\source\repos\KeyboardCheck\KeyboardCheckLib\obj\Debug\KeyboardCheckLib.pdb
+C:\Users\UnderKo\source\repos\KeyboardCheck\Compile\KeyboardCheckLib.dll
+C:\Users\UnderKo\source\repos\KeyboardCheck\Compile\KeyboardCheckLib.pdb
